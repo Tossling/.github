@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  One end-to-end encrypted clipboard for your computers and Android phone, through your own server.<br>
+  One end-to-end encrypted clipboard for your computers and phones, through your own server.<br>
   Copy on one device and paste on another a second later. Text, images and files up to 500 MB go the same way.
 </p>
 
@@ -16,7 +16,7 @@
 | Repository | What is there |
 |---|---|
 | [**tossling-desktop**](https://github.com/Tossling/tossling-desktop) | Apps for macOS, Windows and Linux: menu bar or tray, hotkey, file manager menus and the `tossling` command. |
-| [**tossling-mobile**](https://github.com/Tossling/tossling-mobile) | The Android app with the room, history, a widget and notifications from your projects. The iOS app is in progress. |
+| [**tossling-mobile**](https://github.com/Tossling/tossling-mobile) | The Android and iOS apps with the room, history and notifications from your projects. Android builds are on GitHub Releases, iOS is coming to the App Store. |
 | [**tossling-server**](https://github.com/Tossling/tossling-server) | The server in one Docker container (`ghcr.io/tossling/tossling-server`), with a setup page and a web panel. |
 
 On a Mac install it with `brew install --cask tossling/tap/tossling`. Downloads for every platform are on
