@@ -16,7 +16,7 @@
 | Repository | What is there |
 |---|---|
 | [**tossling-desktop**](https://github.com/Tossling/tossling-desktop) | Apps for macOS, Windows and Linux: menu bar or tray, hotkey, file manager menus and the `tossling` command. |
-| [**tossling-mobile**](https://github.com/Tossling/tossling-mobile) | The Android and iOS apps with the room, history and notifications from your projects. Android is on [Google Play](https://play.google.com/store/apps/details?id=com.kopylovis.tossling) and GitHub Releases, iOS is coming to the App Store. |
+| [**tossling-mobile**](https://github.com/Tossling/tossling-mobile) | The Android and iOS apps with the room, history and notifications from your projects. Android is on [Google Play](https://play.google.com/store/apps/details?id=com.kopylovis.tossling) and GitHub Releases, iOS on the [App Store](https://apps.apple.com/app/id6820647520). |
 | [**tossling-server**](https://github.com/Tossling/tossling-server) | The server in one Docker container (`ghcr.io/tossling/tossling-server`), with a setup page and a web panel. |
 
 On a Mac install it with `brew install --cask tossling/tap/tossling`. Downloads for every platform are on
